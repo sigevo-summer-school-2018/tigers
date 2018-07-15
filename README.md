@@ -1,15 +1,15 @@
 # Tigers
 [SIGEvo Summer School](https://sigevo-summer-school-2018.github.io/) @ [GECCO 2018](http://gecco-2018.sigevo.org/index.html/tiki-index.php?page=HomePage) - Kyoto Japan
 
-## Introduction:
+## Introduction
 To be updated
 
-## Team:
+## Team
 
-### Tutor:
+### Tutor
 - Marc Schoenauer (Tutor)
 
-### Students:
+### Students
 - Anil Yaman (Student)
 - [Bruno Taborda](http://ciencia.iscte-iul.pt/bmtta/en) is a MSc student at [ISCTE-IUL](https://www.iscte-iul.pt), Lisbon and a student researcher at the [Center for Informatics and Systems](https://www.cisuc.uc.pt/home), Coimbra
 - Kento Uchida (Student)
