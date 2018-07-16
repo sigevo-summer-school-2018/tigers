@@ -12,7 +12,7 @@ To be updated
 ### Students
 - [Anil Yaman](https://www.facebook.com/anil.yaman.948) is a PhD candidate at [Eindhoven University of Technology](https://www.tue.nl/en/), Eindhoven.
 - [Bruno Taborda](http://ciencia.iscte-iul.pt/bmtta/en) is a MSc student and a PhD candidate at [ISCTE-IUL](https://www.iscte-iul.pt), Lisbon and a student researcher at the [Center for Informatics and Systems](https://www.cisuc.uc.pt/home), Coimbra.
-- Kento Uchida (Student)
+- [Kento Uchida](https://kento031.github.io/portfolio/) is MSc student at [Yokohama National University](http://www.ynu.ac.jp/), Japan.
 - [Oliver Krauss](https://twitter.com/KraussOliver) is a PhD student at the [University of Applied Sciences Upper Austria](https://www.fh-ooe.at/en/), Austria.
 - Ryo Takano (Student)
 
@@ -20,4 +20,3 @@ To be updated
 
 
 [Link to the Jupyter noteboks](https://colab.research.google.com/drive/1BJqlJctkf0aWEi-cZ1pAQ_WPN-FhVyzp) (Restricted access to the team)
- 
