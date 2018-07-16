@@ -10,10 +10,10 @@ To be updated
 - Marc Schoenauer (Tutor)
 
 ### Students
-- Anil Yaman (Student)
-- [Bruno Taborda](http://ciencia.iscte-iul.pt/bmtta/en) is a MSc student at [ISCTE-IUL](https://www.iscte-iul.pt), Lisbon and a student researcher at the [Center for Informatics and Systems](https://www.cisuc.uc.pt/home), Coimbra
+- [Anil Yaman](https://www.facebook.com/anil.yaman.948) is a PhD candidate at [Eindhoven University of Technology](https://www.tue.nl/en/), Eindhoven.
+- [Bruno Taborda](http://ciencia.iscte-iul.pt/bmtta/en) is a MSc student and a PhD candidate at [ISCTE-IUL](https://www.iscte-iul.pt), Lisbon and a student researcher at the [Center for Informatics and Systems](https://www.cisuc.uc.pt/home), Coimbra.
 - Kento Uchida (Student)
-- [Oliver Krauss](https://twitter.com/KraussOliver) is a PhD student at the [University of Applied Sciences Upper Austria](https://www.fh-ooe.at/en/), Austria
+- [Oliver Krauss](https://twitter.com/KraussOliver) is a PhD student at the [University of Applied Sciences Upper Austria](https://www.fh-ooe.at/en/), Austria.
 - Ryo Takano (Student)
 
 
