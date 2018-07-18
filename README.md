@@ -11,7 +11,7 @@ This project tries to predict the tiger mosquitoes spread considering multiple f
 ## Team
 
 ### Tutor
-- Marc Schoenauer (Tutor), Senior Researcher at INRIA, the French National Institute for Computer Science and Applied Maths (free translation of "Institut Français pour l'Automatique et l'Informatique" - in particular, IA does NOT stand for Intelligence Artificielle :-)
+- [Marc Schoenauer](http://www.lri.fr/~marc) (Tutor), Senior Researcher at INRIA, the French National Institute for Computer Science and Applied Maths (free translation of "Institut Français pour l'Automatique et l'Informatique" - in particular, IA does NOT stand for Intelligence Artificielle :-)
 
 ### Students
 - [Anil Yaman](https://www.facebook.com/anil.yaman.948) is a PhD candidate at [Eindhoven University of Technology](https://www.tue.nl/en/), Eindhoven.
